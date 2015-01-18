@@ -1,0 +1,6 @@
+[linux-in-hell]
+fqdn = ppa.launchpad.net
+method = ftp
+incoming = ~zimniy/linux-in-hell/ubuntu/
+login = zimniy@cyberbrain.pw
+allow_unsigned_uploads = 0
