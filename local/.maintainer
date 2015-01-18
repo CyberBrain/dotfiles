@@ -1,0 +1,3 @@
+DEBEMAIL="zimniy@cyberbrain.pw"
+DEBFULLNAME="Dmitriy Safronov"
+export DEBEMAIL DEBFULLNAME
